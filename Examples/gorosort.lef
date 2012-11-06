@@ -1,0 +1,17 @@
+v GoogleCodeJam
+v Problem: Gorosort
+v Language: Lefunge
+v Author: Lemonidas
+v Variable Space (5,2+)
+v
+v CodeStart!
+> 0 &~$:#v_@ 
+v +1 \ -1<^          <
+> : ":" \v> $ $ :    ^
+v"Case #"<^   ,*25   <
+>,,,,,,.,v > ,,,,,,, ^
+v     \  < ^".000000"<
+> 052p 0 &~$ :#v_v   ^
+    v-$~&:+1\-1<^4>g.^  
+  v _         \:^8^25<
+  >52g 1+ 52p \:^>*, ^  
